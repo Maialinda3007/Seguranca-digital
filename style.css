@@ -6,10 +6,11 @@
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
     --borda: #0075FF;
+    --roboto:"Roboto-Mono";
 }
 
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    font-family: "Roboto Mono", monospace;
+    font-family: "Roboto-Mono", monospace;
 }
