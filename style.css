@@ -45,3 +45,7 @@ body{
     font-family: var(--roboto-mono);
     font-size: 40px;
 }
+
+#campo-senha:focus {
+    outline: none;
+}
